@@ -1,6 +1,6 @@
 VERSION 5.00
 Begin VB.Form Form1 
-   Caption         =   "中山競馬場レース場 Ver7"
+Caption         =   "testrace Ver7"
    ClientHeight    =   6990
    ClientLeft      =   60
    ClientTop       =   345
